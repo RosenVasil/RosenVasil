@@ -2,4 +2,4 @@
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosenvasil&layout=compact&count_private=true)
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rosenvasil&hide=stars,prs,issues,contribs&count_private=true&theme=github_dark&show_icons=true)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rosenvasil&hide=stars,prs,issues&count_private=true&theme=github_dark&show_icons=true)
